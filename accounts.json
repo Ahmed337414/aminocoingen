@@ -1,8 +1,18 @@
 [
  {
-     "email": "basheeriotahmed@gmail.com",
-      "password": "zoyaahmed",
-  "device":
-"425486E4E6D4470E7716B2BAE0B2792709B23652198A225E139F3023F5680161EC1BAAB4E23D85A7CE"
-  }
+   "email": "basheeriotahmed@gmail.com",
+   "password": "zoyaahmed",
+     },
+ {
+ "email": "terise2729@runfons.com",
+      "password": "terise@runfons",
+ },
+ {
+   "email": "gefiho1452@runfons.com",
+   "password": "gefiho@runfons",
+     },
+ {
+ "email": "doxopos169@runfons.com",
+      "password": "doxopos@runfons",
+ }
 ] 
